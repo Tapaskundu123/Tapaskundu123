@@ -4,17 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Tapaskundu123&theme=radical&no-frame=true&column=7" alt="GitHub Trophies" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Tapaskundu123">
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Tapaskundu123&show_icons=true&locale=en&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF4500&text_color=FFFFFF" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/Tapaskundu123">
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tapaskundu123&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF4500&text_color=FFFFFF" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tapaskundu123&theme=radical" alt="GitHub Trophies" />
   </a>
 </p>
 
