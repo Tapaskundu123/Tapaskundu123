@@ -48,12 +48,11 @@
 - ▶️ YouTube: **[@tapaskundu3762bitSindri](https://youtube.com/@tapaskundu3762bitSindri)**
 
 ---
-
 ## 🚀 Highlight Projects
 
-- **[PlanMyTrip-AI]([https://github.com/Tapaskundu123/Next_Trip_planner_AI])** — AI-powered trip planner (smart itinerary + AI travel suggestions)  
-- **[PulseChat]([https://github.com/Tapaskundu123/Redis-Chat-app])** — Real-time chat application (Socket.io + Redis + Kafka + modern UI + auth)  
-- **[SneakerStudio]([https://github.com/Tapaskundu123/Sneaker-Studio-AI-Powered])** — a "Sneaker Studio" Product Customizer Tool for customize sneakers with AI in real-time, and manage their saved designs.  
+- **[PlanMyTrip-AI](https://github.com/Tapaskundu123/Next_Trip_planner_AI)** — AI-powered trip planner (smart itinerary + AI travel suggestions)  
+- **[PulseChat](https://github.com/Tapaskundu123/Redis-Chat-app)** — Real-time chat app (Socket.io + Redis + Kafka + modern UI + auth)  
+- **[SneakerStudio](https://github.com/Tapaskundu123/Sneaker-Studio-AI-Powered)** — AI Sneaker customizer tool (real-time customization + save designs)  
 
 🔗 See more → **[github.com/Tapaskundu123?tab=repositories](https://github.com/Tapaskundu123?tab=repositories)**
 
